@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Stack"
+      name = "Stack">
+      <Group
+         location = "group:Stack"
+         name = "Stack">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Stack.playground">
+         </FileRef>
+         <FileRef
+            location = "group:Stack.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Stack.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:StackTests"
+         name = "StackTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:StackTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
