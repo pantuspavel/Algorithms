@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:InsertionSort"
+      name = "InsertionSort">
+      <Group
+         location = "group:InsertionSort"
+         name = "InsertionSort">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:InsertionSort.h">
+         </FileRef>
+         <FileRef
+            location = "group:InsertionSort.playground">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:InsertionSort.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:InsertionSortTests"
+         name = "InsertionSortTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:InsertionSortTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Queue"
       name = "Queue">
       <Group
