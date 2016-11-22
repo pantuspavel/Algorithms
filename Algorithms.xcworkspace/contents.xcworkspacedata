@@ -7,32 +7,28 @@
       <Group
          location = "group:Queue"
          name = "Queue">
-         <Group
-            location = "group:Queue"
-            name = "Queue">
-            <FileRef
-               location = "group:Info.plist">
-            </FileRef>
-            <FileRef
-               location = "group:Queue.h">
-            </FileRef>
-            <FileRef
-               location = "group:Queue.playground">
-            </FileRef>
-         </Group>
          <FileRef
-            location = "group:Queue.xcodeproj">
+            location = "group:Info.plist">
          </FileRef>
-         <Group
-            location = "group:QueueTests"
-            name = "QueueTests">
-            <FileRef
-               location = "group:Info.plist">
-            </FileRef>
-            <FileRef
-               location = "group:QueueTests.swift">
-            </FileRef>
-         </Group>
+         <FileRef
+            location = "group:Queue.h">
+         </FileRef>
+         <FileRef
+            location = "group:Queue.playground">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Queue.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:QueueTests"
+         name = "QueueTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:QueueTests.swift">
+         </FileRef>
       </Group>
    </Group>
    <Group
